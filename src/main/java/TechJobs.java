@@ -120,6 +120,8 @@ public class TechJobs {
     // Print a list of jobs
     private static void printJobs(ArrayList<HashMap<String, String>> someJobs) {
 
+        String asertisk = "*****";
+
         System.out.println("printJobs is not implemented yet");
     }
 }
